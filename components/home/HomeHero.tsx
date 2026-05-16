@@ -32,7 +32,7 @@ export default function HomeHero() {
   return (
     <ScrollCanvas
       frameCount={framesManifest.frameCount}
-      pattern="/frames/frame-{n}.jpg"
+      pattern={framesManifest.frameUrlTemplate.replace(/\{N+\}/i, "{n}")}
       padLength={4}
       scrollDistance={3.6}
       onProgress={setProgress}
