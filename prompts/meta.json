@@ -1,0 +1,10 @@
+{
+  "mode": "live-generate",
+  "company": "Lumière Salon & Spa",
+  "archetype": "G",
+  "style": "S3",
+  "imageModel": "gemini-3.1-flash-image-preview",
+  "videoModel": "veo-3.1-lite-generate-preview",
+  "scenes": ["scene-1"],
+  "hero": "T2 scroll-scrub"
+}

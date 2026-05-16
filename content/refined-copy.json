@@ -1,0 +1,15 @@
+{
+  "voice_family": "V3 — Organic / sensory wellness",
+  "hero_h1": "A quieter kind of beautiful.",
+  "hero_subhead": "Hair, nails, skin and body — the full ritual, under one calm roof.",
+  "hero_body": "Lumière brings every part of looking and feeling well into a single, unhurried space.",
+  "cta_primary": "Book an appointment",
+  "type_statement": "We measure a good day by how quietly you can let your shoulders drop.",
+  "invented_specifics": [
+    "Business name 'Lumière Salon & Spa' (user chose the placeholder)",
+    "Address '118 Linden Walk, Suite 2', phone +1 (415) 555-0123 — placeholders, update before launch",
+    "Stat figures (12 years, 9,400 appointments, 98% rebook) — illustrative placeholders, confirm before launch",
+    "Testimonials — illustrative, replace with real guest reviews before launch"
+  ],
+  "quality_gates": "ban-word scan clear; specificity present; voice consistent with S3 wellness register"
+}

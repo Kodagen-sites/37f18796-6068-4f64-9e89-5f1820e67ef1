@@ -1,0 +1,38 @@
+{
+  "generation_id": "gen-2026-05-16-lumiere-salon-spa",
+  "company": "Lumière Salon & Spa",
+  "archetype": "G",
+  "style": "S3",
+  "scene_variant": "V2",
+  "motion_variant": "M3",
+  "card_variant": "CV4",
+  "hero_overlay_variant": "HO1",
+  "hero_text_pattern": "H5",
+  "hero_entrance": "E2",
+  "header_variant": "transparent-ghost",
+  "footer_variant": "FT5",
+  "about_variant": "AB1",
+  "benefits_variant": "BN4",
+  "contact_variant": "CT4",
+  "stats_variant": "ST1",
+  "testimonials_variant": "TS1",
+  "cta_variant": "CTA1",
+  "booking_variant": "B4",
+  "color_variant": "sage-fresh",
+  "color_profile": {
+    "luminance": "light",
+    "text": {
+      "hero": "#2d2418",
+      "body": "rgba(45,36,24,0.82)",
+      "eyebrow": "#5f7253",
+      "muted": "rgba(45,36,24,0.55)"
+    },
+    "card_overlay": { "tint": "rgba(255,251,245,0.92)", "blur": "lg", "border": "1px solid rgba(45,36,24,0.12)" },
+    "tone_modifier": "premium + warm"
+  },
+  "voice_family": "V3",
+  "asset_mode": "live-generate",
+  "build_mode": "landing",
+  "industry_object": "calm light-filled salon-spa interior",
+  "rolled_at": "2026-05-16T02:40:00Z"
+}
